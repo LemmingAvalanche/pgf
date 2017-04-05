@@ -18,11 +18,11 @@ In order to use the Java formatter, you need  Nuthatch, Nuthatch/Stratego, Nutha
 
     cd $MYGITDIR
 
-    git clone git@github.com:nuthatchery/pgf.git
+    git clone https://github.com/nuthatchery/pgf.git
 
-    git clone git@github.com:nuthatchery/nuthatch.git
-    git clone git@github.com:nuthatchery/nuthatch-stratego.git
-    git clone git@github.com:nuthatchery/nuthatch-javafront.git
+    git clone https://github.com/nuthatchery/nuthatch.git
+    git clone https://github.com/nuthatchery/nuthatch-stratego.git
+    git clone https://github.com/nuthatchery/nuthatch-javafront.git
 
     
     # Also get the JAR file of Stratego/XT
